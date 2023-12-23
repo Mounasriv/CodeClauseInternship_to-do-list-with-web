@@ -1,0 +1,36 @@
+body {
+    margin: 5;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+div {
+    margin: 0;
+    background-color: #616091;
+    color: #fb97ad;
+    text-align: center;
+}
+
+#container {
+    margin: 24px;
+    padding: 24px;
+    color: white;
+    background-color: #303097;
+    text-align: center;
+}
+
+#input {
+    color: rgb(46, 60, 167);
+    background-color: #f6ee09;
+    border: none;
+    border-bottom: 1px solid #616091;
+    border-left: 1px solid #616091;
+}
+
+#btn {
+    border: none;
+    border-radius: 8px;
+    background-color: #76d914;
+}
